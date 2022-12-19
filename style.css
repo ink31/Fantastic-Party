@@ -1,0 +1,88 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+b {
+    color: darkblue;
+}
+.{
+     border: 3px solid blue;
+}
+header a {
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    background-color:darkblue ;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+h1{
+    background-color: SkyBlue;
+    color: rgb(34, 79, 212);
+    text-align:center ;
+    border-radius: 10px;
+}
+footer p{
+    border-radius: 5px;
+    background-color: rgb(167, 103, 228);
+    padding: 5px;
+}
+nav{
+    background-color: LimeGreen;
+    margin-top: 25px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+nav a {
+     color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.tovar{
+    margin: 15px;
+    border: 4px solid  Blue;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.sezon{
+    color: blue;
+}
+
+.aboba{
+    color: blue;
+    font-size: 35px;
+}
+
+.s{
+    margin: 20pxpx;
+    border: 4px solid  Blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.kak{
+    color: blue;
+    font-size: 35px;
+}
+
+.kontakti{
+       margin: 15px;
+    border: 4px solid  Blue;
+    padding: 5px;
+}
+
+
+.optom{
+    color: blue;
+    font-size: 35px;
+}
+
+.naverx{
+       margin: 15px;
+    border: 4px solid  Blue;
+    padding: 5px;
+}
